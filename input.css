@@ -1,3 +1,18 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: "TT Chocolates Light";
+  src: url("fonts/tt-chocolates-font-family/TT-Chocolates-Trial-Light-BF64000de64da1c.otf");
+}
+
+@font-face {
+  font-family: "TT Chocolates Regular";
+  src: url("fonts/tt-chocolates-font-family/TT-Chocolates-Trial-Regular-BF64000de741fcc.otf");
+}
+
+@font-face {
+  font-family: "Better Saturday";
+  src: url("fonts/better-saturday/Better Saturday.otf");
+}
