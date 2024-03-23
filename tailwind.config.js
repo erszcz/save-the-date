@@ -7,6 +7,7 @@ module.exports = {
         ttchocolates_light: ["TT Chocolates Light", "sans-serif"],
         ttchocolates_regular: ["TT Chocolates Regular", "sans-serif"],
         bettersaturday: ["Better Saturday", "serif"],
+        parlare: ["Parlare", "sans-serif"]
       },
     },
   },

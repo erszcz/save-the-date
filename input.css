@@ -16,3 +16,8 @@
   font-family: "Better Saturday";
   src: url("fonts/better-saturday/Better Saturday.otf");
 }
+
+@font-face {
+  font-family: "Parlare";
+  src: url("fonts/parlare/parlare.otf");
+}
